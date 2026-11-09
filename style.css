@@ -1,0 +1,45 @@
+body {
+  color: #222222;
+  background-color: #f4f4f4;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 0 0 10px 0;
+}
+
+p {
+  margin: 0 0 8px 0;
+}
+
+button {
+  padding: 8px 14px;
+  border: 1px solid #444444;
+  background-color: #ffffff;
+  color: #222222;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid #cccccc;
+  margin: 0 0 20px 0;
+}
+
+.form {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid #cccccc;
+  margin: 0 0 20px 0;
+}
+
+.error {
+  color: #b00020;
+  background-color: #ffe6e6;
+  padding: 8px;
+  border: 1px solid #b00020;
+  margin: 10px 0;
+}
